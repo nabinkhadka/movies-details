@@ -4,8 +4,9 @@ from jsonfinder import jsonfinder
 from moviescraper.items import MoviescraperItem
 import logging as log
 
-EMAIL_ADDRESS = 'nbnnbnkhadka@gmail.com'
-PASSWORD = 'retypeas'
+# CHANGE THESE
+EMAIL_ADDRESS = 'your_email_address@gmail.com'
+PASSWORD = 'your_passwor'
 
 
 class GomoSpider(scrapy.Spider):
