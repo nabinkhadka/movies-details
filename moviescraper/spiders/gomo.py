@@ -6,7 +6,7 @@ import logging as log
 
 # CHANGE THESE
 EMAIL_ADDRESS = 'your_email_address@gmail.com'
-PASSWORD = 'your_passwor'
+PASSWORD = 'your_password'
 
 
 class GomoSpider(scrapy.Spider):
